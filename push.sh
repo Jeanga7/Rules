@@ -51,4 +51,4 @@ git push github
 echo "Push completed successfully to both remotes!"
 # utilisez cela pour sauvegarder votre token
 # export GITHUB_TOKEN="votre_token_github"
-# source ~/.bashrc   # ou source ~/.zshrc
+# source ~/.bashrc   # ou source ~/.zshrc 
